@@ -204,9 +204,28 @@
   }
 
 
+/* 
+  @media (max-width: 968px) {
+    .quality{
+      width: 251px; 
+      margin-left: 10px;
+  }
+  } */
+
+  @media (max-width: 640px) {
+    .quality{
+      width: 91%; 
+      margin-left: 10px;
+  }
+  }
 
 
-
+  /* @media only screen and (max-width: 300px) and (min-width: 736px)  {
+    .quality{
+      width: 251px; 
+      margin-left: 10px;
+  }
+  } */
 
   /* 
   subcontainer

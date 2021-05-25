@@ -198,3 +198,11 @@
   .qualitytxt{
     color: #fff;
   }
+
+
+  @media (max-width: 640px) {
+    .quality{
+      width: 91%; 
+      margin-left: 10px;
+  }
+  }
